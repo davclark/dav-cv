@@ -1,0 +1,240 @@
+Dav Clark
+
+davclark@berkeley.edu
+(917) 544-8408
+Date of Birth: Nov 10, 1977
+Place of Birth: Baltimore, MD
+---------
+
+ *** Academics / Education ***
+
+PhD (currently pursuing) in Psychology, UC Berkeley (Sept 2007 - present)
+  - Supervised by Rich Ivry and Michael Ranney
+  - RCME Fellow
+
+coursework: bayesian graphical models, time series, motor control, functional 
+            neuroanatomy, consciousness, hierarchical and structural equation
+            models
+
+MSc in Cognitive Neuroscience, MIT (June 1999 - May 2002)
+  - Supervised by Anthony Wagner
+  - NSF Graduate Student Fellowship
+  - Jacob Javits Fellowship (declined)
+
+coursework: cognitive neuroscience core, special topics in human learning and
+            memory, various linguistics, support vector machines, statistics
+
+note: Managed undergraduates in developing custom software for MEG processing,
+self-taught basic signal processing.
+
+Bachelor's degrees at U of MD, College Park (September 1995 - May 1999)
+   - BA with honors in Linguistics
+   - BS in Computer Science
+   - BS with high honors in Mathematics
+   - Magna Cum Laude
+   - Banneker/Key Scholarship
+   - Arts and Humanities Senior Scholar
+   - University Honors Citation
+   - Omicron Delta Kappa leadership honors fraternity
+
+coursework: neural networks, various linguistics, AI, probability theory, linear
+            algebra, numerical analysis
+
+graduate level: machine learning, computational linguistics, mathematical logic
+
+
+ *** Articles *** 
+
+Gorgolewski, K., Burns, C. D., Madison, C., Clark, D., Halchenko, Y. O., Waskom, M. L., & Ghosh, S. S. (2011). Nipype: a flexible, lightweight and extensible neuroimaging data processing framework in python. Frontiers in Neuroinformatics, 5, 13. doi:10.3389/fninf.2011.00013
+
+Clark, D., & Ranney, M. A. (2010). Known knowns and unknown knowns: Multiple memory routes to improved numerical estimation. In K. Gomez, L. Lyons, & J. Randinsky (Eds.), Learning in the Disciplines: Proceedings of the Ninth International Conference of the Learning Sciences, Vol. 1-Full Papers (pp. 460-467). International Society of the Learning Sciences, Inc.
+
+Clark, D., & Ivry, R. B. (2010). Multiple systems for motor skill learning. Wiley Interdisciplinary Reviews: Cognitive Science, 1(4), 461-467. doi:10.1002/wcs.56
+
+Hasson, U., Furman, O., Clark, D., Dudai, Y., and Davachi, L. (2008). Enhanced
+intersubject correlations during movie viewing correlate with successful
+episodic encoding. Neuron, 57(3):452-462.
+(http://www.psych.nyu.edu/davachilab/docs/Neuron-2008-Hasson.pdf)
+
+Kahn, I., Pascual-Leone, A., Theoret, H., Fregni, F., Clark, D., & Wagner, A. D.
+(2005). Transient disruption of ventrolateral prefrontal cortex during verbal
+encoding affects subsequent memory performance. Journal of Neurophysiology, 94,
+688-698. 
+(http://www-psych.stanford.edu/~wagner/Publications/papers/KAHN_JNP05.pdf)
+
+Clark, D., & Wagner, A. D. (2003).  Assembling and encoding word
+representations:  fMRI subsequent memory effects implicate a role for
+phonological control.  Neuropsychologia, 41, 304-317. 
+(http://web.mit.edu/wagner/www/papers/CLA_NEUROP03.pdf)
+
+
+ *** Conferences & Talks ***
+
+AERA
+
+Clark, D., Reinholz, D., Cohen, S., Walket, B., & Ranney, M. A. (2011,
+August). Overcoming Climate Change Biases by Teaching the “Goldilocks
+Asymmetry” of Energy Transfer Rates: A Cognitive-Strategy Attempt to Save
+Us Organisms. Paper presented at the Eighteenth Annual Meeting of the
+Cognitive Science Association for Interdisciplinary Learning, Hood River,
+OR.
+
+Clark, D., Reinholz, D., Felipe, J., Cain, A., Beale, M., Lazaris, A., Qi,
+H., Fong, J., Farjadi, R., & Ranney, M. A. (2011, April). The “Goldilocks
+Asymmetry” of Energy Transfer Rates: An Experimental Intervention Toward
+Saving Us from Global Warming. Invited colloquium, Research in Cognition
+and Mathematics Education (RCME), University of California, Berkeley.
+
+Clark, D., Reinholz, D., Goldwasser, L., Ranney, M. A. (2011, April) Can Teaching the "Goldilocks Asymmetry" About Energy Transfer Rates Save Us Organisms? An Experiment on Climate Change Instruction. Graduate School of Education (GSE) Research Day.
+
+Ghosh, S., Burns, C., Clark, D., Gorgolewski, K., Halchenko, Y., Madison, C., Tungaraza R., Millman J. (2010). Nipype: Opensource platform for unified and replicable interaction with existing neuroimaging tools. 16th Annual Meeting of the Organization for Human Brain Mapping.
+
+Clark, D. (2010, April). Surprising Feedback And Fallible Metacognition: Beliefs Versus Facts in Real-World Numerical Estimation and Recall. Graduate School of Eduction (GSE) Research Day.
+
+Clark, D., Ivry, R.B. (2009). Hemispheric Asymmetry in fMRI Activation with Direct or Indirect Cueing of Sequential Movements. 19th Annual Meeting of the Neural Control of Movement Abstracts.
+
+Furman, O., Hasson, U., Clark, D., Dudai, Y., Davachi, L. (2006). Neural correlates of long-term memory formation under continuous real-life viewing conditions. 12th Annual Meeting of the Organization for Human Brain Mapping.
+
+O'Kane, G., Clark, D., Insler, R., & Wagner, A. D. (2003).  Generalized semantic
+repetition priming in left inferior prefrontal cortex. Abstracts of the
+Cognitive Neuroscience Society, 10, 73.
+
+Clark, D., Rhee, J., & Wagner, A. D. (2001).  Prefrontal activation during
+phonological encoding predicts subsequent memory. Abstracts of the Cognitive
+Neuroscience Society, 8, 58. 
+
+Rhee, J., Clark, D., Casasanto, D., Ullman, M., Wagner, A., & Pinker, S. (2001).
+Neural substrates of English past tense generation. Abstracts of the Cognitive
+Neuroscience Society, 8, 131. 
+
+Clark, D., & Wagner, A. D. (2001). A role for phonological working memory: 
+Building representations for novel word stimuli. Society for Neuroscience
+Abstracts, 27. 
+
+
+ *** Invited Seminars ***
+
+UC Berkeley DeCal: Behavioral Change + Technology, ???
+
+UC Berkeley Institute for Cognitive and Brain Sciences (ICBS) colloquium, ???
+
+UC Berkeley Cognitive Coalition (CoCoa) talk, Sept 2011, 
+
+USF Undergraduate Neuroscience Seminar, April 2009, Learning numerical information: A memory systems approach to educational strategy.
+
+MIT Speech Communication Group Seminar Series, April 2001, More is better:
+Predicting word memory with prefrontal activation.
+
+
+ *** Technical Seminars ***
+
+UC Berkeley Python 4 Science, October 2009, Python data discussion (HDF5, R, Numpy)
+
+
+ *** Other Experience ***
+
+Feldenkrais Teacher, self-employed (2007 - present)
+  Hands-on instruction to improve students' ability to move more comfortably,
+  efficiently, powerfully or other good things. Completed 4-year training.
+
+Feldenkrais Teacher, YMCA (June 2009 - July 2011)
+  Verbally guided classes instruction to improve students' ability to move
+  more comfortably, efficiently, powerfully or other good things.
+
+Web Service Developer, Freelance / KeepOpen.com (June 2004 - present)
+  Using technologies like RDF, Zope and Google Maps to implement services for
+  community events management, small businesses, resource sharing, etc. Patent 
+  development.
+
+Principal Scientist, Entrieva (May 2006 - May 2007)
+  Developed multiple reporting frameworks using relational database and
+  hierarchical HDF5 design.  Analysis and reduction of code to basic
+  mathematical notation.  Domain expert in computational linguistics and
+  semantic web technology.  Primary responsibility: "Do good stuff."
+
+Programmer, Wandell Lab / Stanford (February 2006 - April 2006)
+  Developing a brain imaging repository from scratch using REST design and HDF5
+  PyTables data storage using PyTables.  Clients include a Matlab / Java
+  program, a web browser and potentially mounting via WebDAV.  Server written
+  using mod_python.  NumPy used for matrix operations.
+
+Programmer/Analyst, Davachi Lab / NYU (January 2005 - February 2006)
+  Variety of novel analyses of subsequent memory fMRI data collected during free
+  viewing of a movie.  Working with an undergraduate researcher in developing 
+  analysis of associated eye-tracking data.  Duties also include development,
+  automation and technical support of other analyses being done in the lab.
+
+Various Independent Activities (January 2003 - May 2004)
+  MIT and Harvard business plan competitions.  Tech Director for Lowell House
+  Opera.  Real estate agent.  Extensive travel.  Organizer and attendee for
+  various holistic bodywork training sessions.  Organic farming.  Straw bale and
+  mud brick house construction.  Performance art.
+
+Programmer/Analyst, Massachusetts General Hospital (April - December 2002)
+  Supported complex analyses in a flagship brain imaging research center.
+  Included implementing novel techniques for statistics and visualization,
+  integrating fMRI, sMRI and MEG.
+
+
+ *** Service and Extracurricular ***
+
+Producer, Advanced Feldenkrais Training with Paul Doron-Doroftei (June 2004)
+  Working with children with severe cases of spastic paralysis (e.g. CP).
+
+Brewmaster, Oni Gallery Collective (February - August 2003)
+  Organized all or part of various artistic events.  10 Gal Beer / week.
+
+Producer, The Voice Institute (2001 - present)
+  Various workshops and retreats - styles ranging from Gypsy to Modern Chamber.
+  
+Technical director & cast, Harvard's Lowell House Opera (Spring 2003)
+  Managed large, untrained teams of actors in building the entire stage.
+
+At UCB - Teaching Assistant for Cognitive Neuroscience (Fall, 2007)
+
+At MIT - President, Graduate Student Volunteer Corps
+       - Graduate Student Council Departmental Representative
+       - Teaching Assistant for Introduction to Psychology (Fall, 2000)
+       
+At UofMD - President & Founder, Juggling Club
+         - Aaron Strauss Teaching Assistant for Calculus I & II
+
+
+ *** Undergraduates Supervised ***
+
+Jimmy Zhang
+Naomi Sulzer
+Janice Chen (now a graduate student with Anthony Wagner)
+Benjamin Miron
+Konstantin Tomashevsky
+Tawny Tsang
+Jeff Lai
+Si Wang
+Benjamin Walklet (Post-bac RA)
+
+
+ *** Tech Skillset ***
+
+Professional-level programming competence:
+ - R (an S dialect, similar to S-Plus)
+ - Python, including many scientific libraries
+
+Brain Imaging Packages:
+ - SPM
+ - FSL
+
+Other:
+ - Version Control (Subversion and Git)
+ - Extensive Unix (15+ years),  Mac OS X experience
+ - GNU build tools, primarily make, but exposed to autoconf and automake
+ - Zope / Silva (python-based content management system)
+ - VI and Emacs
+
+
+ *** References ***
+
+UC Berkeley - Michael Ranney (ranney@berkeley.edu)
+UC Berkeley - Rich Ivry (ivry@berkeley.edu)
+Stanford / MIT - Anthony Wagner (wagner@psych.stanford.edu)
+NYU - Lila Davachi (lila.davachi@nyu.edu)
+NYU / Weizmann - Yadin Dudai (yadin.dudai@weizmann.ac.il)
