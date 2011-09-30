@@ -1,0 +1,52 @@
+\NeedsTeXFormat{LaTeX2e}
+\documentclass[12pt,myheadings]{curve}
+
+\usepackage{fixltx2e}
+\usepackage{cmap}
+\usepackage{mathptmx}
+\usepackage{fullpage}
+\usepackage{underscore}
+\frenchspacing
+
+% bibtex is too much work here...
+% \usepackage{apacite}
+
+\markboth{\textbf{CV -- Dav Clark}}{CV -- Dav Clark}
+
+\leftheader{
+    davclark@berkeley.edu \\
+    (917) 544-8408}
+\rightheader{
+    Department of Psychology \\
+    3210 Tolman Hall \#1650 \\
+    Berkeley CA 94720-1650}
+
+\title{Dav Clark}
+\subtitle{Curriculum Vitae}
+
+\begin{document}
+
+\thispagestyle{empty}
+\makeheaders[t]
+\maketitle
+
+\prefix{}
+\makerubric{academics}
+\makerubric{articles}
+\makerubric{presentations}
+\makerubric{invited}
+\makerubric{tech-seminars}
+\prefix{\textbullet}
+\makerubric{reviewing}
+\makerubric{skills}
+\prefix{}
+\makerubric{other}
+\makerubric{extracurricular}
+\makerubric{supervision}
+\makerubric{refs}
+
+% \nocite{*}
+% \bibliographystyle{apalike}
+% \bibliography{papers}
+
+\end{document}
