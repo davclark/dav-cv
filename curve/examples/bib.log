@@ -1,0 +1,136 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=pdflatex 2010.7.21)  28 SEP 2011 15:09
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/dav/Projects/rtmdsvn/dav-cv/curve/examples/bib.tex
+(/Users/dav/Projects/rtmdsvn/dav-cv/curve/examples/bib.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, ancientgreek, ibycus, arabic, armenian
+, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutch, u
+kenglish, usenglishmax, esperanto, estonian, farsi, finnish, french, galician, 
+german, ngerman, swissgerman, monogreek, greek, hungarian, icelandic, assamese,
+ bengali, gujarati, hindi, kannada, malayalam, marathi, oriya, panjabi, tamil, 
+telugu, indonesian, interlingua, irish, italian, kurmanji, lao, latin, latvian,
+ lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, polish, portuguese, roma
+nian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish,
+ turkmen, ukrainian, uppersorbian, welsh, loaded.
+(./curve.cls
+Document Class: curve 2010/12/14 v1.16 Curriculum Vitae class for LaTeX2e
+(/usr/local/texlive/2010/texmf-dist/tex/latex/carlisle/ltxtable.sty
+Package: ltxtable 1995/12/11 v0.2 longtable/tabularx merge (DPC)
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/tools/array.sty
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen102
+\extrarowheight=\dimen103
+\NC@list=\toks14
+\extratabsurround=\skip41
+\backup@length=\skip42
+)
+\TX@col@width=\dimen104
+\TX@old@table=\dimen105
+\TX@old@col=\dimen106
+\TX@target=\dimen107
+\TX@delta=\dimen108
+\TX@cols=\count79
+\TX@ftn=\toks15
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip43
+\LTright=\skip44
+\LTpre=\skip45
+\LTpost=\skip46
+\LTchunksize=\count80
+\LTcapwidth=\dimen109
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count81
+\LT@rows=\count82
+\c@LT@tables=\count83
+\c@LT@chunks=\count84
+\c@table=\count85
+\LT@p@ftn=\toks16
+))
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count86
+\calc@Bcount=\count87
+\calc@Adimen=\dimen110
+\calc@Bdimen=\dimen111
+\calc@Askip=\skip47
+\calc@Bskip=\skip48
+LaTeX Info: Redefining \setlength on input line 76.
+LaTeX Info: Redefining \addtolength on input line 77.
+\calc@Ccount=\count88
+\calc@Cskip=\skip49
+)
+(/usr/local/texlive/2010/texmf-dist/tex/latex/filehook/filehook.sty
+Package: filehook 2010/04/08 v0.1 Hooks for input files
+)
+\@almosttextwidth=\skip50
+\subrubricbeforespace=\skip51
+\subrubricspace=\skip52
+\rubricspace=\skip53
+\rubricafterspace=\skip54
+\headerspace=\skip55
+\photosep=\skip56
+\photo@width=\skip57
+\leftheader@width=\skip58
+\rightheader@width=\skip59
+\titlespace=\skip60
+\c@bibcount=\count89
+\c@bibtotal=\count90
+
+(/usr/local/texlive/2010/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)) (./bib.aux)
+\openout1 = `bib.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+
+(./bib.bbl) (./bib.bbl) (./bib.bbl) [1
+
+{/usr/local/texlive/2010/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./bib.
+aux) ) 
+Here is how much of TeX's memory you used:
+ 678 strings out of 493747
+ 8928 string characters out of 3143546
+ 60340 words of memory out of 3000000
+ 4017 multiletter control sequences out of 15000+200000
+ 5843 words of font info for 21 fonts, out of 3000000 for 9000
+ 714 hyphenation exceptions out of 8191
+ 35i,6n,22p,217b,232s stack positions out of 5000i,500n,10000p,200000b,50000s
+</usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12
+.pfb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.p
+fb></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pf
+b></usr/local/texlive/2010/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb
+>
+Output written on bib.pdf (1 page, 47975 bytes).
+PDF statistics:
+ 24 PDF objects out of 1000 (max. 8388607)
+ 16 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

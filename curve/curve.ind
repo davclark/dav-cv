@@ -1,0 +1,270 @@
+
+ \begin{theindex} 
+ \makeatletter\scan@allowedfalse
+{\bfseries\hfil Symbols\hfil}\nopagebreak
+
+  \item \verb*+\@@maketitle+\pfill \main{331}
+  \item \verb*+\@@rubrichead+\pfill \main{128}
+  \item \verb*+\@@subrubric+\pfill \main{88}
+  \item \verb*+\@almosttextwidth+\pfill \main{58}
+  \item \verb*+\@alwayskey+\pfill \main{32}
+  \item \verb*+\@bibitem+\pfill \main{387}
+  \item \verb*+\@clcccolsep+\pfill \main{95}
+  \item \verb*+\@curve@bibitem+\pfill \main{387}
+  \item \verb*+\@curve@input@+\pfill \main{375}
+  \item \verb*+\@curve@lbibitem+\pfill \main{378}
+  \item \verb*+\@curvebibitem+\pfill \main{397}
+  \item \verb*+\@curveinput+\pfill \main{349}
+  \item \verb*+\@curveltx@bibitem+\pfill \main{387}
+  \item \verb*+\@curveltx@lbibitem+\pfill \main{378}
+  \item \verb*+\@curveltxbibitem+\pfill \main{397}
+  \item \verb*+\@curveltxbibliography+\pfill \main{433}
+  \item \verb*+\@entry+\pfill \main{43}
+  \item \verb*+\@flavor+\pfill \main{342}
+  \item \verb*+\@keyfont+\pfill \main{14}
+  \item \verb*+\@lbibitem+\pfill \main{378}
+  \item \verb*+\@leftheader+\pfill \main{196}
+  \item \verb*+\@listpubname+\pfill \main{373}
+  \item \verb*+\@maketitle+\pfill \main{331}
+  \item \verb*+\@maybekey+\pfill \main{32}
+  \item \verb*+\@nextentry+\pfill \main{12}
+  \item \verb*+\@prefix+\pfill \main{29}
+  \item \verb*+\@rightheader+\pfill \main{196}
+  \item \verb*+\@rubricfont+\pfill \main{122}
+  \item \verb*+\@rubrichead+\pfill \main{128}
+  \item \verb*+\@rubrichead@c+\pfill \main{128}
+  \item \verb*+\@rubrichead@cc+\pfill \main{128}
+  \item \verb*+\@rubrichead@cl+\pfill \main{128}
+  \item \verb*+\@rubrichead@l+\pfill \main{128}
+  \item \verb*+\@rubrichead@r+\pfill \main{128}
+  \item \verb*+\@rubricmark+\pfill \main{149}
+  \item \verb*+\@sentry+\pfill \main{43}
+  \item \verb*+\@stext+\pfill \main{58}
+  \item \verb*+\@subrubric+\pfill \main{97}
+  \item \verb*+\@subrubric@c+\pfill \main{97}
+  \item \verb*+\@subrubric@cc+\pfill \main{97}
+  \item \verb*+\@subrubric@cl+\pfill \main{97}
+  \item \verb*+\@subrubric@l+\pfill \main{97}
+  \item \verb*+\@subrubric@r+\pfill \main{97}
+  \item \verb*+\@subrubricfont+\pfill \main{79}
+  \item \verb*+\@subrubricmark+\pfill \main{88}
+  \item \verb*+\@subtitle+\pfill \main{303}
+  \item \verb*+\@subtitlefont+\pfill \main{307}
+  \item \verb*+\@text+\pfill \main{58}
+  \item \verb*+\@title@lignment+\pfill \main{311}
+  \item \verb*+\@titlealignment+\pfill \main{311}, \main{317}
+  \item \verb*+\@titlealignment@c+\pfill \main{311}
+  \item \verb*+\@titlealignment@l+\pfill \main{311}
+  \item \verb*+\@titlealignment@r+\pfill \main{311}
+  \item \verb*+\@titlefont+\pfill \main{294}
+  \item {\ttfamily 10pt} (opt.)\pfill \usage{11}, \main{703}
+  \item {\ttfamily 11pt} (opt.)\pfill \usage{11}, \main{703}
+  \item {\ttfamily 12pt} (opt.)\pfill \usage{11}, \main{703}
+
+  \indexspace
+{\bfseries\hfil A\hfil}\nopagebreak
+
+  \item {\ttfamily a4paper} (opt.)\pfill \usage{11}, \main{680}
+  \item {\ttfamily a5paper} (opt.)\pfill \usage{11}, \main{680}
+  \item {\ttfamily ask} (opt.)\pfill \usage{7}, \main{342}
+
+  \indexspace
+{\bfseries\hfil B\hfil}\nopagebreak
+
+  \item {\ttfamily b4paper} (opt.)\pfill \usage{11}
+  \item {\ttfamily b5paper} (opt.)\pfill \main{680}
+  \item {\ttfamily bibcount} (cnt.)\pfill \main{364}
+  \item \verb*+\bibitem+\pfill \usage{10}, \main{397}
+  \item \verb*+\bibliography+\pfill \usage{11}, \main{433}
+  \item \verb*+\bibliographystyle+\pfill \usage{10}
+  \item {\ttfamily bibtotal} (cnt.)\pfill \main{364}
+  \item {\ttfamily brazil} (lang.)\pfill \main{639}
+  \item {\ttfamily brazilian} (lang.)\pfill \main{639}
+
+  \indexspace
+{\bfseries\hfil C\hfil}\nopagebreak
+
+  \item conditionals:\efill 
+ \subitem {\ttfamily curve@revbib}\pfill \main{364}
+  \item \verb*+\continuedname+\pfill \usage{12}, \main{182}
+  \item counters:\efill 
+ \subitem {\ttfamily bibcount}\pfill \main{364}
+    \subitem {\ttfamily bibtotal}\pfill \main{364}
+  \item {\ttfamily curve@revbib} (cond.)\pfill \main{364}
+
+  \indexspace
+{\bfseries\hfil D\hfil}\nopagebreak
+
+  \item {\ttfamily danish} (lang.)\pfill \main{639}
+  \item {\ttfamily draft} (opt.)\pfill \usage{11}, \main{710}
+  \item {\ttfamily dutch} (lang.)\pfill \main{639}
+
+  \indexspace
+{\bfseries\hfil E\hfil}\nopagebreak
+
+  \item {\ttfamily english} (lang.)\pfill \main{639}
+  \item \verb*+\entry+\pfill \usage{8}, \main{43}
+  \item \verb*+\entry*+\pfill \usage{8}
+  \item environments:\efill 
+ \subitem {\ttfamily rubric}\pfill \usage{8}, \main{149}
+    \subitem {\ttfamily thebibliography}\pfill \usage{10}, \main{423}
+  \item {\ttfamily executivepaper} (opt.)\pfill \usage{11}, \main{680}
+
+  \indexspace
+{\bfseries\hfil F\hfil}\nopagebreak
+
+  \item {\ttfamily final} (opt.)\pfill \usage{11}, \main{710}
+  \item \verb*+\flavor+\pfill \usage{7}
+  \item {\ttfamily francais} (lang.)\pfill \main{639}
+  \item {\ttfamily french} (lang.)\pfill \main{639}
+
+  \indexspace
+{\bfseries\hfil G\hfil}\nopagebreak
+
+  \item {\ttfamily german} (lang.)\pfill \main{639}
+
+  \indexspace
+{\bfseries\hfil H\hfil}\nopagebreak
+
+  \item \verb*+\header@scale+\pfill \main{189}
+  \item \verb*+\headerscale+\pfill \usage{6}, \main{189}
+  \item \verb*+\headerspace+\pfill \usage{6}, \main{193}
+
+  \indexspace
+{\bfseries\hfil I\hfil}\nopagebreak
+
+  \item \verb*+\includephoto@b+\pfill \main{235}
+  \item \verb*+\includephoto@c+\pfill \main{235}
+  \item \verb*+\includephoto@t+\pfill \main{235}
+  \item \verb*+\input+\pfill \main{349}
+  \item {\ttfamily italian} (lang.)\pfill \main{639}
+
+  \indexspace
+{\bfseries\hfil K\hfil}\nopagebreak
+
+  \item \verb*+\keyalignment+\pfill \usage{8}, \main{17}
+  \item \verb*+\keyfont+\pfill \usage{8}, \main{14}
+
+  \indexspace
+{\bfseries\hfil L\hfil}\nopagebreak
+
+  \item {\ttfamily landscape} (opt.)\pfill \usage{11}, \main{680}
+  \item languages:\efill 
+ \subitem {\ttfamily brazil}\pfill \main{639}
+    \subitem {\ttfamily brazilian}\pfill \main{639}
+    \subitem {\ttfamily danish}\pfill \main{639}
+    \subitem {\ttfamily dutch}\pfill \main{639}
+    \subitem {\ttfamily english}\pfill \main{639}
+    \subitem {\ttfamily francais}\pfill \main{639}
+    \subitem {\ttfamily french}\pfill \main{639}
+    \subitem {\ttfamily german}\pfill \main{639}
+    \subitem {\ttfamily italian}\pfill \main{639}
+    \subitem {\ttfamily ngerman}\pfill \main{639}
+    \subitem {\ttfamily polish}\pfill \main{639}
+    \subitem {\ttfamily portuges}\pfill \main{639}
+    \subitem {\ttfamily portugese}\pfill \main{639}
+    \subitem {\ttfamily spanish}\pfill \main{639}
+    \subitem {\ttfamily swedish}\pfill \main{639}
+  \item \verb*+\leftheader+\pfill \usage{5}, \main{196}
+  \item \verb*+\leftheader@width+\pfill \main{247}
+  \item {\ttfamily legalpaper} (opt.)\pfill \usage{11}, \main{680}
+  \item {\ttfamily letterpaper} (opt.)\pfill \usage{11}, \main{680}
+  \item \verb*+\listpubname+\pfill \usage{12}, \main{373}
+
+  \indexspace
+{\bfseries\hfil M\hfil}\nopagebreak
+
+  \item \verb*+\makeheaders+\pfill \usage{6}, \main{283}
+  \item \verb*+\makeheaders@+\pfill \main{277}
+  \item \verb*+\makeheaders@c+\pfill \main{259}
+  \item \verb*+\makeheaders@l+\pfill \main{250}
+  \item \verb*+\makeheaders@r+\pfill \main{267}
+  \item \verb*+\makerubric+\pfill \usage{7}, \main{357}
+  \item \verb*+\maketitle+\pfill \usage{7}, \main{331}
+
+  \indexspace
+{\bfseries\hfil N\hfil}\nopagebreak
+
+  \item {\ttfamily ngerman} (lang.)\pfill \main{639}
+  \item \verb*+\nocite+\pfill \usage{10}
+  \item \verb*+\noentry+\pfill \usage{9}, \main{76}
+
+  \indexspace
+{\bfseries\hfil O\hfil}\nopagebreak
+
+  \item {\ttfamily oneside} (opt.)\pfill \usage{11}, \main{707}
+  \item {\ttfamily openbib} (opt.)\pfill \usage{10}, \main{361}
+  \item options:\efill 
+ \subitem {\ttfamily 10pt}\pfill \usage{11}, \main{703}
+    \subitem {\ttfamily 11pt}\pfill \usage{11}, \main{703}
+    \subitem {\ttfamily 12pt}\pfill \usage{11}, \main{703}
+    \subitem {\ttfamily a4paper}\pfill \usage{11}, \main{680}
+    \subitem {\ttfamily a5paper}\pfill \usage{11}, \main{680}
+    \subitem {\ttfamily ask}\pfill \usage{7}, \main{342}
+    \subitem {\ttfamily b4paper}\pfill \usage{11}
+    \subitem {\ttfamily b5paper}\pfill \main{680}
+    \subitem {\ttfamily draft}\pfill \usage{11}, \main{710}
+    \subitem {\ttfamily executivepaper}\pfill \usage{11}, \main{680}
+    \subitem {\ttfamily final}\pfill \usage{11}, \main{710}
+    \subitem {\ttfamily landscape}\pfill \usage{11}, \main{680}
+    \subitem {\ttfamily legalpaper}\pfill \usage{11}, \main{680}
+    \subitem {\ttfamily letterpaper}\pfill \usage{11}, \main{680}
+    \subitem {\ttfamily oneside}\pfill \usage{11}, \main{707}
+    \subitem {\ttfamily openbib}\pfill \usage{10}, \main{361}
+    \subitem {\ttfamily revbib}\pfill \usage{10}, \main{364}
+    \subitem {\ttfamily skipsamekey}\pfill \usage{9}, \main{32}
+    \subitem {\ttfamily twoside}\pfill \usage{11}, \main{707}
+
+  \indexspace
+{\bfseries\hfil P\hfil}\nopagebreak
+
+  \item \verb*+\pagestyle+\pfill \usage{11}
+  \item \verb*+\photo+\pfill \usage{5}, \main{216}
+  \item \verb*+\photo@width+\pfill \main{235}
+  \item \verb*+\photoscale+\pfill \usage{5}, \main{216}
+  \item \verb*+\photosep+\pfill \usage{6}, \main{216}
+  \item {\ttfamily polish} (lang.)\pfill \main{639}
+  \item {\ttfamily portuges} (lang.)\pfill \main{639}
+  \item {\ttfamily portugese} (lang.)\pfill \main{639}
+  \item \verb*+\prefix+\pfill \usage{8}, \main{29}
+
+  \indexspace
+{\bfseries\hfil R\hfil}\nopagebreak
+
+  \item {\ttfamily revbib} (opt.)\pfill \usage{10}, \main{364}
+  \item \verb*+\rightheader+\pfill \usage{5}, \main{196}
+  \item \verb*+\rightheader@width+\pfill \main{247}
+  \item {\ttfamily rubric} (env.)\pfill \usage{8}, \main{149}
+  \item \verb*+\rubricafterspace+\pfill \usage{7}, \main{146}
+  \item \verb*+\rubricalignment+\pfill \usage{8}, \main{138}
+  \item \verb*+\rubricfont+\pfill \usage{8}, \main{122}
+  \item \verb*+\rubricspace+\pfill \usage{8}, \main{125}
+
+  \indexspace
+{\bfseries\hfil S\hfil}\nopagebreak
+
+  \item {\ttfamily skipsamekey} (opt.)\pfill \usage{9}, \main{32}
+  \item {\ttfamily spanish} (lang.)\pfill \main{639}
+  \item \verb*+\subrubric+\pfill \usage{9}, \main{117}
+  \item \verb*+\subrubricalignment+\pfill \usage{9}, \main{106}
+  \item \verb*+\subrubricbeforespace+\pfill \usage{9}, \main{82}
+  \item \verb*+\subrubricfont+\pfill \usage{9}, \main{79}
+  \item \verb*+\subrubricspace+\pfill \usage{9}, \main{82}
+  \item \verb*+\subtitle+\pfill \usage{6}, \main{303}
+  \item \verb*+\subtitlefont+\pfill \usage{6}, \main{307}
+  \item {\ttfamily swedish} (lang.)\pfill \main{639}
+
+  \indexspace
+{\bfseries\hfil T\hfil}\nopagebreak
+
+  \item \verb*+\text+\pfill \usage{9}, \main{58}
+  \item {\ttfamily thebibliography} (env.)\pfill \usage{10}, \main{423}
+  \item \verb*+\thispagestyle+\pfill \usage{11}
+  \item \verb*+\title+\pfill \usage{6}
+  \item \verb*+\titlealignment+\pfill \usage{6}, \main{329}
+  \item \verb*+\titlefont+\pfill \usage{6}, \main{294}
+  \item \verb*+\titlespace+\pfill \usage{6}, \main{300}
+  \item \verb*+\today+\pfill \main{184}
+  \item {\ttfamily twoside} (opt.)\pfill \usage{11}, \main{707}
+
+ \end{theindex}

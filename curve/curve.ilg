@@ -1,0 +1,14 @@
+This is makeindex, version 2.15 [TeX Live 2010] (kpathsea + Thai support).
+Scanning style file /usr/local/texlive/2010/texmf-dist/makeindex/latex/gind.ist..........
+** Input style error (file = /usr/local/texlive/2010/texmf-dist/makeindex/latex/gind.ist, line = 80):
+   -- Unknown specifier lethead_prefix.
+** Input style error (file = /usr/local/texlive/2010/texmf-dist/makeindex/latex/gind.ist, line = 81):
+   -- Unknown specifier lethead_suffix.
+** Input style error (file = /usr/local/texlive/2010/texmf-dist/makeindex/latex/gind.ist, line = 82):
+   -- Unknown specifier lethead_flag.
+...done (13 attributes redefined, 3 ignored).
+Scanning input file curve.idx....done (260 entries accepted, 0 rejected).
+Sorting entries.....done (2220 comparisons).
+Generating output file curve.ind....done (270 lines written, 0 warnings).
+Output written in curve.ind.
+Transcript written in curve.ilg.
