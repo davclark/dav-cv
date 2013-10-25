@@ -1,3 +1,3 @@
 complete-current-CV.pdf: *.tex
-	latexmk -pdf complete-current-CV
+	latexmk -lualatex complete-current-CV
 	latexmk -c
