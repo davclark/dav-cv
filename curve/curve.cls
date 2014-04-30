@@ -114,7 +114,7 @@
 \newcommand\noentry[1]{\@nextentry
   \noalign{\gdef\@nextentry{}}#1&&\kill}
 
-\def\@subrubricfont{\Large\itshape}
+\def\@subrubricfont{\large\itshape}
 \newcommand\subrubricfont[1]{\gdef\@subrubricfont{#1}}
 
 \newlength\subrubricbeforespace
@@ -157,7 +157,7 @@
   \noalign{\gdef\@nextentry{}}%
   \@subrubric{#1}\\*[\subrubricspace]\par}
 
-\def\@rubricfont{\Large\bfseries}
+\def\@rubricfont{\large\bfseries}
 \newcommand\rubricfont[1]{\gdef\@rubricfont{#1}}
 
 \newlength\rubricspace
@@ -331,7 +331,7 @@
 
 \@onlypreamble\title
 
-\def\@titlefont{\Huge\bfseries}
+\def\@titlefont{\large\bfseries\itshape}
 \newcommand\titlefont[1]{\gdef\@titlefont{#1}}
 \@onlypreamble\titlefont
 
@@ -342,7 +342,7 @@
 \newcommand\subtitle[1]{\gdef\@subtitle{#1}}
 \@onlypreamble\subtitle
 
-\def\@subtitlefont{\huge\itshape}
+\def\@subtitlefont{\large\itshape}
 \newcommand\subtitlefont[1]{\gdef\@subtitlefont{#1}}
 \@onlypreamble\subtitlefont
 
