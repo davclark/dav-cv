@@ -18,4 +18,4 @@ RUN mkdir /userfiles
 
 WORKDIR /userfiles
 
-ENTRYPOINT [ "make" ]
+ENTRYPOINT [ "make", "current-resume.pdf" ]
